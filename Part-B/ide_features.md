@@ -2,34 +2,21 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+Using an IDE for the first time was a learning experience for me. At first, I had to get familiar with where everything was and how to use the different tools. As I worked on my name and age Python program, I learned that an IDE makes writing, running, and testing code easier. Three features that helped me were syntax highlighting, the integrated terminal, and source control.
 
-TODO: Replace with your introduction here.
+## Syntax Highlighting
 
-## Feature 1 – TODO: Replace with name of your Feature1
+Syntax highlighting was one of the first features I noticed when using the IDE. It uses different colors to separate parts of the code, such as commands, variables, and strings. This helped me understand my Python program and made it easier to follow each line. As a beginner, seeing the different colors helped me read my code without getting confused.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Integrated Terminal
 
-TODO: Replace with your Feature 1 paragraph here.
+The integrated terminal was another helpful feature because it allowed me to run my Python program and see the results. I used it to enter my name and age and check whether the program calculated my birth year correctly. When I first ran my program, I noticed that the birth year was not correct because I had entered the wrong age by accident. I was able to make the correction and run the program again. This feature helped me test my work and make sure my code was working properly. 
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Source Control
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+Source control was another useful feature I learned about while completing this assignment. It allowed me to save my changes by creating commits in GitHub. I learned that commits help keep track of the work I have completed and make it easier to manage changes to my program. This feature is important because it gives programmers a way to keep their projects organized and track their progress.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+This assignment helped me become more comfortable using an IDE and working with Python. I learned that features like syntax highlighted, the integrated terminal, and source control can make programming easier and more organized. I am still learning, but I feel more confident now that I understand how to write, run, test, and save my code. I know these skills will help me as I continue working towards my computer science degree.
 
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
